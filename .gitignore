@@ -1,1 +1,4 @@
 core/keys.json
+.idea
+*.log
+TEST-PROJECT
